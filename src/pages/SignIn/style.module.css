@@ -1,0 +1,14 @@
+.container {
+    align-items: center;
+    width: 100%;
+    padding: 70px 0;
+}
+
+.loginForm {
+    width: 80%;
+}
+
+.alert {
+    margin-top: 10px;
+    width: auto;
+}
