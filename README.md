@@ -16,5 +16,3 @@ Pour lancer le projet, il faut avoir:
 Puis:
 - Installer les dépendances: ```npm install```.
 - Lancer l'application: ```npm start```.
-
-Tchao.
